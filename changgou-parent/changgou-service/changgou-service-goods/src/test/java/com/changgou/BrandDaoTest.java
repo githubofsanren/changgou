@@ -1,7 +1,6 @@
 package com.changgou;
 
 import com.changgou.goods.dao.BrandMapper;
-import com.changgou.goods.pojo.Brand;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
