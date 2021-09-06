@@ -14,6 +14,7 @@
     <description>核心的通用的抽取的功能所在的父工程（聚合工程）管理所有的通用的核心的工程</description>
     <modules>
         <module>changgou-core-service</module>
+        <module>changgou-core-controller</module>
     </modules>
 
 </project>
