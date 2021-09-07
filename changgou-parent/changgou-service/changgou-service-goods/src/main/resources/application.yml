@@ -19,3 +19,6 @@ feign:
     enabled: true
 logging:
   level.com: debug
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true # 开启驼峰命名 （自动将 下划线转换成大写）
